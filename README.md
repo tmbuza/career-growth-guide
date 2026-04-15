@@ -1,4 +1,4 @@
-# Career Growth
+# Career Growth and Structured Development Pathways
 
 **A Structured Guide to Career Paths and Real-World Opportunities**
 
