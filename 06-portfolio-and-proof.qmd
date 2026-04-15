@@ -1,0 +1,172 @@
+# Portfolio and Proof: Making Your Work Count
+
+:::cdi-message
+- **ID:** CDI-CAREER-L06
+- **Type:** Framework
+- **Audience:** Aspiring Data Analyst → Junior Data Analyst
+- **Theme:** Portfolio and Proof
+:::
+
+Learning creates potential.
+
+But portfolios create proof.
+
+Many people build projects, but those projects do not translate into opportunities.
+
+This happens because work is not structured, presented, or interpreted clearly.
+
+This chapter focuses on how to turn work into strong, visible proof.
+
+---
+
+## What a Portfolio Is
+
+A portfolio is not a collection of files.
+
+It is a structured presentation of your capability.
+
+It answers:
+
+- What can you do?
+- How do you think?
+- Can you solve real problems?
+- Can you explain your work clearly?
+
+---
+
+## From Project to Proof
+
+A project becomes proof when it is:
+
+- complete  
+- structured  
+- explained  
+- visible  
+
+---
+
+## The Portfolio Structure
+
+Each strong project should follow a clear structure:
+
+### 1. Problem
+
+What question are you answering?
+
+### 2. Data
+
+What data did you use?
+
+### 3. Process
+
+What steps did you take?
+
+### 4. Results
+
+What did you find?
+
+### 5. Interpretation
+
+Why does it matter?
+
+---
+
+## Example Structure (Data Analyst)
+
+```text
+Title: Sales Trends Analysis
+
+Problem:
+Identify monthly sales trends and key drivers.
+
+Data:
+Retail dataset (transactions, dates, categories)
+
+Process:
+- cleaned missing values
+- aggregated monthly sales
+- created visualizations
+
+Results:
+- identified peak periods
+- found category differences
+
+Interpretation:
+- seasonal trends affect performance
+- specific categories drive growth
+```
+
+---
+
+## Types of Portfolio Evidence
+
+Strong portfolios include:
+
+- end-to-end projects  
+- case studies  
+- reproducible workflows  
+- clear visualizations  
+- written explanations  
+
+---
+
+## What Makes Work Strong
+
+Strong work is:
+
+- complete (not partial)  
+- clear (easy to follow)  
+- relevant (matches real tasks)  
+- interpretable (explains decisions)  
+
+---
+
+## Common Weaknesses
+
+- incomplete projects  
+- unclear structure  
+- no explanation  
+- copied work without understanding  
+- no connection to real problems  
+
+---
+
+## Where to Show Your Work
+
+Your work should be accessible across platforms:
+
+- GitHub (code and project structure)  
+- LinkedIn (communication and visibility)  
+- A personal portfolio website (optional but recommended)  
+
+Examples include GitHub repositories, a personal portfolio website, and interactive applications (e.g., Streamlit dashboards) that demonstrate real-world use.
+
+---
+
+## Portfolio Checklist
+
+A strong portfolio should include:
+
+- 2–4 complete projects  
+- at least one detailed case study  
+- clear README or explanation  
+- clean and organized files  
+- visible outputs (plots, summaries)  
+
+---
+
+## CDI Perspective
+
+At Complex Data Insights, work is not evaluated by volume.
+
+It is evaluated by clarity, structure, and interpretation.
+
+A small number of strong projects is more valuable than many incomplete ones.
+
+---
+
+## What Comes Next
+
+With strong proof in place, the next step is visibility and connection.
+
+In the next chapter, we focus on **networking and visibility**, and how work becomes opportunity.

@@ -1,0 +1,196 @@
+# Networking and Visibility: From Proof to Access
+
+:::cdi-message
+- **ID:** CDI-CAREER-L07
+- **Type:** Framework
+- **Audience:** Aspiring Data Analyst → Junior Data Analyst
+- **Theme:** Networking and Visibility
+:::
+
+Strong work is important.
+
+But work alone does not create opportunities.
+
+It must be seen, understood, and connected to the right spaces.
+
+This chapter focuses on how proof becomes access.
+
+---
+
+## What Visibility Means
+
+Visibility is not about being loud.
+
+It is about being clear and accessible.
+
+It answers:
+
+- Can people find your work?
+- Can they understand it quickly?
+- Can they see what you are capable of?
+
+---
+
+## What Networking Means
+
+Networking is not collecting contacts.
+
+It is building meaningful connections around work.
+
+It includes:
+
+- engaging with communities  
+- interacting with professionals  
+- sharing ideas and insights  
+- participating in relevant discussions  
+
+---
+
+## From Portfolio to Visibility
+
+Your portfolio becomes useful when it is:
+
+- shared in the right places  
+- explained clearly  
+- connected to real conversations  
+
+---
+
+## Key Visibility Channels
+
+### 1. GitHub
+
+Used for:
+
+- code  
+- project structure  
+- reproducibility  
+
+Focus on:
+
+- clean repositories  
+- clear README files  
+- organized workflows  
+
+---
+
+### 2. LinkedIn
+
+Used for:
+
+- communication  
+- explanation  
+- professional presence  
+
+Focus on:
+
+- explaining your work  
+- sharing insights  
+- connecting with relevant people  
+
+---
+
+### 3. Portfolio Site (Optional)
+
+Used for:
+
+- structured presentation  
+- curated projects  
+
+Focus on:
+
+- clarity  
+- simplicity  
+- accessibility  
+
+---
+
+## What to Share
+
+Good visibility includes:
+
+- project summaries  
+- short explanations of findings  
+- lessons learned  
+- reflections on decisions  
+
+Avoid sharing without substance.
+
+Focus on clarity and usefulness.
+
+---
+
+## How Networking Works
+
+Networking grows from visibility.
+
+You:
+
+- share your work  
+- people see it  
+- conversations start  
+- connections form  
+- opportunities emerge  
+
+---
+
+## Types of Connections
+
+- peers (learning together)  
+- mentors (guidance)  
+- professionals (opportunities)  
+- communities (exposure)  
+
+Each plays a different role.
+
+---
+
+## Common Mistakes
+
+- waiting until everything is perfect  
+- sharing without explanation  
+- focusing on quantity over clarity  
+- trying to “network” without showing work  
+
+These weaken the connection between effort and opportunity.
+
+---
+
+## Visibility Checklist
+
+- work is publicly accessible  
+- explanations are clear  
+- projects are easy to understand  
+- profiles are complete  
+- content reflects your capability  
+
+---
+
+## Networking Checklist
+
+- you engage with relevant posts  
+- you respond to discussions  
+- you connect with people in your field  
+- you participate in communities  
+- you build relationships over time  
+
+---
+
+## CDI Perspective
+
+At Complex Data Insights, visibility and networking are part of the system.
+
+They are not separate activities.
+
+They connect:
+
+- evidence → access  
+- work → opportunity  
+
+---
+
+## What Comes Next
+
+Now that visibility and networking are clear, the next step is applying this system to specific roles.
+
+In the next chapter, we begin with the **Data Analyst role path**, connecting everything into a real career trajectory.

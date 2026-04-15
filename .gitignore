@@ -1,0 +1,24 @@
+# =====================================================
+# Quarto build/cache artifacts
+# =====================================================
+
+.quarto/
+_cache/
+_freeze/
+_site/
+
+# Ignore rendered HTML outside docs/
+*.html
+!docs/**/*.html
+
+# Ignore Quarto-generated asset folders outside docs/
+*_files/
+!docs/*_files/
+!docs/*_files/**
+
+# Ignore generated documents
+*.pdf
+*.docx
+*.pptx
+
+/.quarto/

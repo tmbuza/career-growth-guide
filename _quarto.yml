@@ -1,0 +1,54 @@
+project:
+  type: book
+  output-dir: docs
+
+bibliography: library/references.bib
+date: last-modified
+date-format: "MMM YYYY"
+
+book:
+  title: "Career Growth and Structured<br>Development Pathways"
+  subtitle: "A guide to career paths and real-world opportunities"
+  author: "Teresia Mrema Buza | Complex Data Insights"
+  chapters:
+    - index.qmd
+
+    - part: "Foundations"
+      chapters:
+        - 00-preface.qmd
+        - 01-purpose.qmd
+        - 02-career-layers.qmd
+        - 03-career-system.qmd
+
+    - part: "Career Structure"
+      chapters:
+        - 04-opportunity-mapping.qmd
+        - 05-job-readiness.qmd
+        - 06-portfolio-and-proof.qmd
+        - 07-networking-and-visibility.qmd
+
+    - part: "Role-Based Paths"
+      chapters:
+        - 08-role-path-data-analyst.qmd
+        - 09-role-path-data-scientist.qmd
+        - 10-role-path-bioinformatics.qmd
+        - 11-role-path-ml-systems.qmd
+
+    - part: "Wrap Up"
+      chapters:
+        - 99-next-steps.qmd
+        - 99-references.qmd
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    css: assets/css/cdi.css
+    code-fold: false
+    smooth-scroll: true
+
+execute:
+  echo: false
+  warning: false
+  message: false

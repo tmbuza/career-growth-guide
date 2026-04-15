@@ -1,0 +1,195 @@
+# ML Systems Role Path: From Models to Real Systems
+
+:::cdi-message
+- **ID:** CDI-CAREER-L10
+- **Type:** Path
+- **Audience:** Aspiring ML Engineer → Junior ML Engineer
+- **Theme:** ML Systems Role Path
+:::
+
+This chapter extends the career system into machine learning and systems.
+
+Machine learning is not only about building models.
+
+It is about building systems that work in real environments.
+
+This path connects:
+
+- data → models → deployment → operation
+
+---
+
+## What This Path Represents
+
+This is a structured path from:
+
+- learning → modeling → evaluation → deployment → system operation → improvement
+
+Focused on the **ML Engineer / ML Systems role**.
+
+---
+
+## The Full Path
+
+```{mermaid}
+flowchart LR
+  A[Learn Foundations] --> B[Build Models]
+  B --> C[Evaluate Models]
+  C --> D[Deploy Model]
+  D --> E[Operate System]
+  E --> F[Improve System]
+  F --> A
+```
+
+---
+
+## Stage 1: Learn Foundations
+
+### Data Foundations
+- data cleaning  
+- feature understanding  
+- data splitting  
+
+### Modeling Foundations
+- regression  
+- classification  
+- model evaluation  
+
+### Programming Foundations
+- Python  
+- libraries (scikit-learn, pandas, numpy)  
+
+---
+
+## Stage 2: Build Models
+
+Create simple models:
+
+- predict outcomes  
+- classify categories  
+- test different approaches  
+
+Focus on:
+
+- correct setup  
+- reproducible workflow  
+- clear structure  
+
+---
+
+## Stage 3: Evaluate Models
+
+Go beyond accuracy.
+
+Evaluate using:
+
+- appropriate metrics  
+- validation strategies  
+- comparison of models  
+
+Understand:
+
+- what the model is doing  
+- where it fails  
+- how reliable it is  
+
+---
+
+## Stage 4: Deploy Model
+
+Move from notebook to usable system.
+
+This includes:
+
+- building an API  
+- creating a simple interface  
+- packaging the model  
+
+Deployment makes the model usable.
+
+---
+
+## Stage 5: Operate System
+
+Once deployed, the system must run reliably.
+
+This includes:
+
+- monitoring performance  
+- handling errors  
+- maintaining stability  
+
+This is where DevOps thinking begins.
+
+---
+
+## Stage 6: Improve System
+
+Systems evolve.
+
+You:
+
+- update models  
+- refine features  
+- improve performance  
+- incorporate feedback  
+
+This closes the loop.
+
+---
+
+## What Makes This Path Different
+
+Unlike analysis roles, this path includes:
+
+- deployment  
+- operation  
+- continuous improvement  
+
+It is not a one-time process.
+
+It is a system.
+
+---
+
+## Readiness Within This Path
+
+You are approaching readiness when:
+
+- you can build and evaluate a model  
+- you can deploy it in a simple way  
+- you understand system behavior  
+- you can explain model decisions  
+- your workflow is reproducible  
+
+---
+
+## Common Pitfalls
+
+- focusing only on models, not systems  
+- ignoring deployment  
+- overfitting without understanding  
+- building without evaluation  
+- skipping monitoring  
+
+---
+
+## CDI Perspective
+
+At Complex Data Insights, machine learning is part of a larger system.
+
+Models alone do not create value.
+
+Systems do.
+
+This path reflects:
+
+- model → deployment → operation → improvement  
+
+---
+
+## What Comes Next
+
+This completes the role-based paths.
+
+In the final chapter, we summarize how to move forward and apply this system to your own career.

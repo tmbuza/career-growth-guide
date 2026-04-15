@@ -1,0 +1,191 @@
+# Bioinformatics Role Path: From Data to Biological Insight
+
+:::cdi-message
+- **ID:** CDI-CAREER-L09
+- **Type:** Path
+- **Audience:** Aspiring Bioinformatician → Junior Bioinformatician
+- **Theme:** Bioinformatics Role Path
+:::
+
+This chapter applies the same career system to a different domain.
+
+Bioinformatics sits at the intersection of:
+
+- biology  
+- data  
+- computation  
+
+It requires both technical skills and interpretive discipline.
+
+---
+
+## What This Path Represents
+
+This is a structured path from:
+
+- learning → analysis → interpretation → communication → opportunity
+
+Focused on the **Bioinformatics role**.
+
+---
+
+## The Full Path
+
+```{mermaid}
+flowchart LR
+  A[Learn Biology + Data Foundations] --> B[Analyze Biological Data]
+  B --> C[Interpret Results]
+  C --> D[Document and Share]
+  D --> E[Connect to Research/Industry]
+  E --> F[Apply for Roles]
+```
+
+---
+
+## Stage 1: Learn Foundations
+
+### Biological Foundations
+- basic molecular biology  
+- DNA, RNA, proteins  
+- experimental design concepts  
+
+### Computational Foundations
+- R or Python  
+- command line basics  
+- data handling  
+
+### Analytical Foundations
+- statistics basics  
+- understanding variation  
+- interpreting patterns  
+
+---
+
+## Stage 2: Analyze Biological Data
+
+Start working with real datasets:
+
+- RNA-seq  
+- microbiome data  
+- gene expression data  
+
+Tasks include:
+
+- data cleaning  
+- normalization  
+- basic statistical summaries  
+- visualization  
+
+---
+
+## Stage 3: Interpret Results
+
+This is what makes bioinformatics different.
+
+You must connect results to biology:
+
+- what does this pattern mean?  
+- is it biologically plausible?  
+- what are alternative explanations?  
+
+Avoid over-interpretation.
+
+Focus on **defensible reasoning**.
+
+---
+
+## Stage 4: Document and Share
+
+Your work should be:
+
+- reproducible  
+- well-structured  
+- clearly explained  
+
+Use:
+
+- Quarto or RMarkdown  
+- GitHub repositories  
+- structured reports  
+
+---
+
+## Stage 5: Connect to Relevant Spaces
+
+Opportunities often come from:
+
+- research groups  
+- academic labs  
+- collaborations  
+- professional communities  
+
+Engage with:
+
+- bioinformatics communities  
+- open datasets  
+- research discussions  
+
+---
+
+## Stage 6: Apply for Roles
+
+Target roles such as:
+
+- Junior Bioinformatician  
+- Research Assistant (computational biology)  
+- Data Analyst (biomedical context)  
+
+Applications should include:
+
+- reproducible projects  
+- clear interpretation  
+- biological relevance  
+
+---
+
+## What Makes This Path Work
+
+Bioinformatics requires balance:
+
+- technical execution  
+- biological understanding  
+- careful interpretation  
+
+Missing one weakens the entire path.
+
+---
+
+## Readiness Within This Path
+
+You are approaching readiness when:
+
+- you can process a biological dataset independently  
+- you can explain your workflow clearly  
+- you can interpret results cautiously  
+- your work is reproducible  
+- your analysis connects to biological questions  
+
+---
+
+## Common Pitfalls
+
+- focusing only on tools without biology  
+- over-interpreting results  
+- ignoring reproducibility  
+- copying workflows without understanding  
+
+---
+
+## CDI Perspective
+
+At Complex Data Insights, bioinformatics is not just analysis.
+
+It is interpretation grounded in evidence.
+
+From results → to defensible biological claims.
+
+---
+
+## What Comes Next
+
+The next role path extends this system into machine learning and systems thinking.

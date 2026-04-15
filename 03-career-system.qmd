@@ -1,0 +1,186 @@
+# Career System: How Growth Actually Happens
+
+:::cdi-message
+- **ID:** CDI-CAREER-L03
+- **Type:** Framework
+- **Audience:** Aspiring Professionals → Junior Professionals
+- **Theme:** Career System Loop
+:::
+
+Understanding the layers of a career is important.
+
+But structure alone is not enough.
+
+We also need to understand how growth happens over time.
+
+Careers do not move in a straight line.
+
+They evolve through a repeating process.
+
+---
+
+## The Career System Loop
+
+Career growth can be understood as a continuous loop:
+
+```{mermaid}
+flowchart LR
+  A[Learn] --> B[Build]
+  B --> C[Show]
+  C --> D[Connect]
+  D --> E[Opportunity]
+  E --> F[Experience]
+  F --> A
+```
+
+This loop explains how effort turns into outcomes.
+
+---
+
+## Step 1: Learn
+
+This is where everything begins.
+
+You acquire:
+
+- knowledge  
+- skills  
+- understanding  
+
+However, learning alone does not create results.
+
+It prepares you for action.
+
+---
+
+## Step 2: Build
+
+Learning must be translated into practice.
+
+This is where you:
+
+- create projects  
+- solve problems  
+- apply concepts  
+
+This step produces **work evidence**.
+
+---
+
+## Step 3: Show
+
+Your work must be visible.
+
+You:
+
+- document your work  
+- share it clearly  
+- present your thinking  
+
+This step transforms effort into something others can evaluate.
+
+---
+
+## Step 4: Connect
+
+Visibility creates the possibility of connection.
+
+You:
+
+- engage with communities  
+- interact with professionals  
+- enter relevant spaces  
+
+This step creates access.
+
+---
+
+## Step 5: Opportunity
+
+Opportunities emerge from the previous steps.
+
+These include:
+
+- job offers  
+- freelance work  
+- collaborations  
+
+Opportunities are not random.
+
+They are the result of a working system.
+
+---
+
+## Step 6: Experience
+
+Once you engage in real work:
+
+- your skills deepen  
+- your understanding improves  
+- your judgment becomes stronger  
+
+This feeds back into learning.
+
+---
+
+## Why the Loop Matters
+
+Many people stop too early:
+
+- They learn but do not build  
+- They build but do not show  
+- They show but do not connect  
+
+This breaks the system.
+
+Progress requires completing the loop.
+
+---
+
+## Common Mistakes
+
+- Staying in learning mode too long  
+- Building without direction  
+- Sharing without clarity  
+- Expecting opportunities without connection  
+
+Each of these interrupts the loop.
+
+---
+
+## How to Use This Model
+
+At any point, ask:
+
+- Am I learning or applying?  
+- Have I built something real?  
+- Can others see my work clearly?  
+- Am I connected to the right spaces?  
+- Am I positioned for opportunities?  
+
+---
+
+## CDI Perspective
+
+At Complex Data Insights, this loop reflects how real systems grow.
+
+It is not a one-time process.
+
+It is continuous.
+
+Each cycle improves:
+
+- capability  
+- visibility  
+- access  
+- opportunity quality  
+
+---
+
+## What Comes Next
+
+Now that we understand both the structure (layers) and the process (loop),
+
+the next step is to connect this system to real roles.
+
+In the next chapter, we begin with structured career paths.

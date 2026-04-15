@@ -1,0 +1,17 @@
+---
+title: ""
+engine: knitr
+format:
+  html:
+    body-classes: front-page
+---
+
+<div style="text-align: center; margin-top: 1.5em;">
+  <img src="assets/images/cover/career-cover.png" width="75%" />
+</div>
+
+<div style="text-align: center; font-style: normal; margin-top: 1em;">
+<!-- Free Guide · Updated `r format(Sys.Date(), "%b %Y")` -->
+Career Guide · Updated {{< meta date >}}
+</div>
+

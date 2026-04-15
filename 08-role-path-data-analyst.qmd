@@ -1,0 +1,196 @@
+# Data Analyst Role Path: From Learning to Real Work
+
+:::cdi-message
+- **ID:** CDI-CAREER-L08
+- **Type:** Path
+- **Audience:** Aspiring Data Analyst → Junior Data Analyst
+- **Theme:** Data Analyst Role Path
+:::
+
+This chapter brings everything together.
+
+You have seen:
+
+- how careers are structured (layers)
+- how growth happens (system loop)
+- how readiness is evaluated
+- how work becomes visible and connected
+
+Now we apply all of this to a real role.
+
+---
+
+## What This Path Represents
+
+This is not just a list of skills.
+
+It is a structured path from:
+
+- learning → building → showing → connecting → opportunity
+
+Focused specifically on the **Data Analyst role**.
+
+---
+
+## The Full Path
+
+```{mermaid}
+flowchart LR
+  A[Learn Foundations] --> B[Build Projects]
+  B --> C[Create Portfolio]
+  C --> D[Gain Visibility]
+  D --> E[Connect with Others]
+  E --> F[Apply for Roles]
+```
+
+Each step connects directly to the previous chapters.
+
+---
+
+## Stage 1: Learn Foundations
+
+Focus on core capabilities:
+
+### Technical
+- Excel / spreadsheets  
+- SQL  
+- Python or R  
+- Data cleaning  
+- Basic visualization  
+
+### Analytical
+- understanding questions  
+- summarizing data  
+- identifying patterns  
+
+### Communication
+- explaining results  
+- writing clearly  
+- structuring insights  
+
+---
+
+## Stage 2: Build Projects
+
+Move from learning to doing.
+
+Start with small, complete projects:
+
+- explore a dataset  
+- answer a clear question  
+- clean and transform data  
+- visualize results  
+- summarize findings  
+
+Each project should be complete.
+
+---
+
+## Stage 3: Create Portfolio
+
+Turn projects into proof.
+
+Each project should include:
+
+- clear problem statement  
+- structured workflow  
+- visible outputs  
+- written explanation  
+
+Focus on clarity, not complexity.
+
+---
+
+## Stage 4: Gain Visibility
+
+Make your work accessible:
+
+- publish on GitHub  
+- share insights on LinkedIn  
+- organize projects clearly  
+
+Visibility allows others to understand your capability.
+
+---
+
+## Stage 5: Connect with Others
+
+Engage in relevant spaces:
+
+- data communities  
+- professional networks  
+- discussions and posts  
+
+Connection turns visibility into access.
+
+---
+
+## Stage 6: Apply for Roles
+
+Target roles such as:
+
+- Junior Data Analyst  
+- Reporting Analyst  
+- Business Intelligence Support  
+- Research Assistant (data-focused)  
+
+Apply with:
+
+- clear portfolio  
+- relevant projects  
+- aligned skills  
+
+---
+
+## What Makes This Path Work
+
+This path works because it is structured.
+
+Each stage builds on the previous one.
+
+Skipping stages weakens outcomes.
+
+---
+
+## Readiness Within This Path
+
+You are moving toward readiness when:
+
+- you can complete projects independently  
+- your work is clearly presented  
+- your portfolio reflects real tasks  
+- your work aligns with job expectations  
+
+---
+
+## Common Pitfalls
+
+- staying too long in learning  
+- building without finishing  
+- showing without explaining  
+- connecting without clear work  
+
+These break the system.
+
+---
+
+## CDI Perspective
+
+At Complex Data Insights, a role is not defined by tools.
+
+It is defined by:
+
+- capability  
+- evidence  
+- visibility  
+- alignment  
+
+This is what makes a career path actionable.
+
+---
+
+## What Comes Next
+
+Now that this role path is clear, the next chapters will expand to other domains.
+
+You will see how the same system applies across different career paths.

@@ -1,0 +1,51 @@
+# Preface
+
+:::cdi-message
+- **ID:** CDI-CAREER-L00
+- **Type:** Framework
+- **Audience:** Aspiring Professionals
+- **Theme:** Career Systems
+:::
+
+A career does not grow from learning alone.
+
+It grows when skills are translated into visible, usable, and connected work.
+
+That is where opportunities come from.
+
+## Why this guide exists
+
+Many people learn continuously but remain uncertain about what comes next.
+
+They complete courses, watch tutorials, and collect certificates, but still face practical questions:
+
+- What should I build next?
+- What shows that I am ready?
+- Which opportunities match my current level?
+- How does learning turn into real work?
+
+This guide is designed to answer those questions in a structured way.
+
+## What this guide is
+
+This is a reference guide for career growth.
+
+It is not built as motivation alone, and it is not a generic list of job tips.
+
+It is a structured system that helps you move from:
+
+**skills → evidence → visibility → access → opportunity**
+
+## CDI perspective
+
+At Complex Data Insights, growth is treated as a system.
+
+A system creates direction, repeatability, and interpretable progress.
+
+In career development, this means:
+
+- learning with purpose  
+- building proof of capability  
+- showing work clearly  
+- connecting to real people and spaces  
+- aligning with actual opportunities  

@@ -1,0 +1,160 @@
+# Opportunity Mapping: Connecting Work to Real Roles
+
+:::cdi-message
+- **ID:** CDI-CAREER-L04
+- **Type:** Framework
+- **Audience:** Aspiring Data Analyst → Junior Data Analyst
+- **Theme:** Opportunity Mapping
+:::
+
+One of the biggest gaps in career development is understanding how work connects to opportunities.
+
+Many people learn skills and build projects, but still ask:
+
+- What roles match my current level?
+- Is my work relevant to real jobs?
+- What should I build to become employable?
+
+This chapter addresses that gap.
+
+---
+
+## What Opportunity Mapping Means
+
+Opportunity mapping is the process of linking:
+
+- skills  
+- work evidence  
+- visible output  
+
+to:
+
+- specific roles  
+- real job expectations  
+- actual opportunities  
+
+It removes guesswork and replaces it with structure.
+
+---
+
+## The Core Idea
+
+Opportunities are not random.
+
+They are aligned with:
+
+- what you can do  
+- what you can show  
+- how clearly it is presented  
+- how closely it matches real tasks  
+
+---
+
+## From Work to Role
+
+Instead of asking:
+
+**“What job can I get?”**
+
+Ask:
+
+**“What work have I done, and which roles require that work?”**
+
+---
+
+## Example: Data Analyst Path
+
+Below is a simplified mapping for entry-level data analyst roles.
+
+### Role: Junior Data Analyst
+
+| Requirement | Evidence You Should Show |
+|------------|--------------------------|
+| Data cleaning | Project handling missing/inconsistent data |
+| Data summarization | Grouped summaries and descriptive stats |
+| Visualization | Clear plots explaining patterns |
+| SQL usage | Queries for filtering, joins, aggregation |
+| Communication | Written explanation of findings |
+
+---
+
+## Example: Research Assistant (Data-Oriented)
+
+| Requirement | Evidence You Should Show |
+|------------|--------------------------|
+| Data handling | Clean dataset workflow |
+| Analysis | Basic statistical summaries |
+| Interpretation | Clear explanation of results |
+| Documentation | Reproducible steps |
+
+---
+
+## Example: Freelance Data Tasks
+
+| Requirement | Evidence You Should Show |
+|------------|--------------------------|
+| Problem solving | End-to-end project |
+| Clarity | Well-structured outputs |
+| Communication | Clear explanation for non-technical users |
+| Reliability | Consistent project quality |
+
+---
+
+## Mapping Your Own Work
+
+To apply this model, take your existing work and evaluate:
+
+- What skills does this project demonstrate?
+- What type of role requires these skills?
+- Does my work resemble real tasks in that role?
+
+If the answer is unclear, refine the project.
+
+---
+
+## Strengthening Alignment
+
+If your work does not align with opportunities:
+
+- adjust the problem you are solving  
+- make the workflow more complete  
+- improve explanation and structure  
+- use tools relevant to the role  
+
+Alignment is what turns effort into opportunity.
+
+---
+
+## Common Mistakes
+
+- Building projects without a target role  
+- Learning tools without applying them  
+- Creating work that does not resemble real tasks  
+- Ignoring how work is presented  
+
+These break the connection between effort and outcome.
+
+---
+
+## CDI Perspective
+
+At Complex Data Insights, opportunity is treated as an output of alignment.
+
+Not effort alone.
+
+Alignment between:
+
+- capability  
+- evidence  
+- visibility  
+- real-world demand  
+
+This is what creates meaningful opportunities.
+
+---
+
+## What Comes Next
+
+Now that we understand how work connects to roles, the next step is to define when that work is sufficient.
+
+In the next chapter, we focus on **job readiness**, including how to evaluate whether your current work aligns with real opportunities.

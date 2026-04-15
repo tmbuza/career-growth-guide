@@ -1,0 +1,199 @@
+# Career Layers: From Skills to Opportunities
+
+:::cdi-message
+- **ID:** CDI-CAREER-L02
+- **Type:** Framework
+- **Audience:** Aspiring Professionals → Junior Professionals
+- **Theme:** Career Structure
+:::
+
+Career growth is often misunderstood as learning more.
+
+But learning alone does not create opportunities.
+
+To understand how careers actually develop, we need to look at the full structure.
+
+This structure can be understood as layers.
+
+Each layer builds on the previous one, and skipping layers often leads to frustration.
+
+---
+
+## The Career Layers
+
+Career growth can be viewed as five connected layers:
+
+1. Skills  
+2. Work Evidence  
+3. Visibility  
+4. Access  
+5. Opportunities  
+
+---
+
+## Layer 1: Skills
+
+Skills are the foundation.
+
+This includes:
+
+- technical skills (e.g., Python, SQL, domain knowledge)
+- analytical thinking
+- communication
+
+At this stage, the focus is learning and understanding.
+
+However, skills alone are not enough.
+
+Many people stop here, which is why they struggle to move forward.
+
+---
+
+## Layer 2: Work Evidence
+
+Skills must be translated into something visible.
+
+This is where work evidence comes in.
+
+Examples include:
+
+- projects  
+- case studies  
+- analyses  
+- repositories  
+
+This answers a critical question:
+
+**Can you apply what you know?**
+
+Without evidence, skills remain unproven.
+
+---
+
+## Layer 3: Visibility
+
+Even strong work has no impact if no one can see it.
+
+Visibility means presenting your work clearly and accessibly.
+
+This can include:
+
+- GitHub  
+- LinkedIn  
+- a personal portfolio  
+
+Visibility is not about noise.
+
+It is about clarity.
+
+**Can someone quickly understand what you can do?**
+
+---
+
+## Layer 4: Access
+
+Opportunities do not come from visibility alone.
+
+They come from being connected to the right spaces.
+
+Access includes:
+
+- networks  
+- communities  
+- mentorship  
+- professional environments  
+
+This is where visibility turns into interaction.
+
+---
+
+## Layer 5: Opportunities
+
+Opportunities are the outcome of the previous layers working together.
+
+These include:
+
+- jobs  
+- freelance work  
+- collaborations  
+- research roles  
+
+Opportunities are not random.
+
+They are the result of:
+
+- skills that are built  
+- evidence that is clear  
+- visibility that is accessible  
+- access that connects you to the right spaces  
+
+---
+
+## How the Layers Work Together
+
+The layers are not independent.
+
+They form a progression:
+
+```{mermaid}
+flowchart LR
+  A[Skills] --> B[Work Evidence]
+  B --> C[Visibility]
+  C --> D[Access]
+  D --> E[Opportunities]
+```
+
+Each step strengthens the next.
+
+Skipping a layer weakens the system.
+
+---
+
+## Common Breakdown Points
+
+Many people struggle not because they lack ability, but because the structure is incomplete.
+
+Common patterns include:
+
+- Learning continuously without building evidence  
+- Building projects but not showing them clearly  
+- Showing work but not connecting to relevant spaces  
+- Expecting opportunities without completing earlier layers  
+
+Understanding where you are in this structure is critical.
+
+---
+
+## How to Use This Model
+
+This model is not theoretical.
+
+It is a practical tool.
+
+At any point, you can ask:
+
+- Do I have the right skills?  
+- Have I built evidence of those skills?  
+- Is my work visible and clear?  
+- Am I connected to relevant spaces?  
+- Am I aligned with real opportunities?  
+
+---
+
+## CDI Perspective
+
+At Complex Data Insights, career growth is treated as a system.
+
+This model reflects that system.
+
+It ensures that effort is not wasted, but directed.
+
+Progress becomes interpretable, not uncertain.
+
+---
+
+## What Comes Next
+
+Now that the structure is clear, the next step is to understand how this system operates over time.
+
+In the next chapter, we introduce the **Career System Loop**, which shows how these layers interact continuously as your career grows.

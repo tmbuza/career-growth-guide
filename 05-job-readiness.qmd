@@ -1,0 +1,283 @@
+# Job Readiness: From Learning to Opportunity Alignment
+
+:::cdi-message
+- **ID:** CDI-CAREER-L05
+- **Type:** Framework
+- **Audience:** Aspiring Data Analyst → Junior Data Analyst
+- **Theme:** Job Readiness
+:::
+
+One of the most common questions in career development is:
+
+**“Am I ready?”**
+
+This question is often difficult to answer because readiness is misunderstood.
+
+Many people try to measure readiness by:
+
+- courses completed  
+- tools learned  
+- time spent studying  
+
+But these do not determine readiness.
+
+They only describe activity.
+
+Readiness is about capability that can be used, shown, and aligned with real work.
+
+---
+
+## What Job Readiness Means
+
+Job readiness is the point where:
+
+- your skills are usable  
+- your work is visible  
+- your reasoning is clear  
+- your output matches real expectations  
+
+It is not perfection.
+
+It is:
+
+- functional capability  
+- clear, visible evidence  
+- understandable reasoning  
+- alignment with real tasks  
+
+Job readiness does not exist in isolation.
+
+It depends on how your work maps to real roles.
+
+This is why opportunity mapping is essential.
+
+Without alignment, even strong work may not lead to opportunities.
+
+---
+
+## The Job Readiness Structure
+
+Job readiness connects directly to the career layers:
+
+```{mermaid}
+flowchart LR
+  A[Skills] --> B[Work Evidence]
+  B --> C[Visibility]
+  C --> D[Access]
+  D --> E[Opportunities]
+```
+
+To be ready, all layers must be sufficiently developed.
+
+Weakness in one layer reduces readiness.
+
+---
+
+## Readiness Dimensions
+
+Instead of thinking in one dimension, evaluate readiness across four areas:
+
+### 1. Capability
+
+Can you perform core tasks?
+
+For a data analyst, this includes:
+
+- cleaning data  
+- summarizing data  
+- creating visualizations  
+- answering a question with data  
+
+---
+
+### 2. Evidence
+
+Can you show that capability?
+
+You should have:
+
+- completed projects  
+- clear workflows  
+- reproducible steps  
+- documented results  
+
+---
+
+### 3. Clarity
+
+Can you explain what you did?
+
+This includes:
+
+- writing clearly  
+- structuring your work  
+- explaining decisions  
+- connecting results to a question  
+
+---
+
+### 4. Alignment
+
+Does your work match real roles?
+
+This includes:
+
+- using relevant tools  
+- solving realistic problems  
+- structuring projects like real tasks  
+- targeting actual job descriptions  
+
+---
+
+## Interpreting the Checklists
+
+The following checklists are not for perfection.
+
+They are for interpretation.
+
+They help you understand where you are strong and where you need improvement.
+
+---
+
+## Job Readiness Checklist (Data Analyst)
+
+You are approaching readiness when you can:
+
+### Skills
+- load and inspect datasets  
+- clean missing or inconsistent values  
+- perform basic transformations  
+- summarize and group data  
+- create clear visualizations  
+- use SQL for common queries  
+
+---
+
+### Evidence
+- have 2–4 complete projects  
+- include at least one well-documented case study  
+- show a full workflow from question to result  
+- maintain a clean and organized repository  
+
+---
+
+### Clarity
+- explain your steps in plain language  
+- describe why you made certain choices  
+- present results without confusion  
+- connect findings to a question or problem  
+
+---
+
+### Alignment
+- projects resemble real-world tasks  
+- tools match job expectations  
+- work is relevant to target roles  
+- examples reflect actual use cases  
+
+---
+
+## Readiness Is Not Binary
+
+Job readiness is not a yes-or-no state.
+
+It exists on a spectrum.
+
+You may be:
+
+- strong in skills but weak in visibility  
+- strong in projects but weak in clarity  
+- strong in knowledge but weak in alignment  
+
+Understanding your position helps you improve more effectively.
+
+The goal is not to be perfect in all areas.
+
+The goal is to be sufficiently strong across all layers.
+
+---
+
+## Signs You Are Not Yet Ready
+
+You may not be ready if:
+
+- you understand concepts but cannot apply them  
+- your projects are incomplete or unclear  
+- your work is not visible or accessible  
+- you cannot explain your reasoning  
+- your projects do not resemble real tasks  
+
+This is not failure.
+
+It simply means one or more layers need strengthening.
+
+---
+
+## Common Misinterpretations
+
+### “I need to learn more before applying”
+Often incomplete.
+
+In many cases, the issue is not lack of knowledge, but lack of:
+
+- evidence  
+- clarity  
+- alignment  
+
+---
+
+### “I finished a course, so I am ready”
+Completion does not equal readiness.
+
+Readiness comes from:
+
+- application  
+- demonstration  
+- interpretation  
+
+---
+
+### “I need to be perfect”
+Perfection is not required.
+
+Usefulness is.
+
+---
+
+## How to Move Toward Readiness
+
+If you are not yet ready, focus on:
+
+- completing one strong project  
+- improving clarity of explanation  
+- aligning your work with real tasks  
+- making your work visible  
+
+Progress is made by strengthening weak layers.
+
+---
+
+## CDI Perspective
+
+At Complex Data Insights, readiness is not defined by time or content.
+
+It is defined by:
+
+- what you can do  
+- what you can show  
+- how clearly you can explain it  
+- how well it aligns with real opportunities  
+
+This makes readiness interpretable.
+
+You can see where you are, what is missing, and what to improve.
+
+Progress becomes structured, not uncertain.
+
+---
+
+## What Comes Next
+
+Now that readiness is defined, the next step is to understand how opportunities connect to your current level.
+
+In the next chapter, we focus on **portfolio and proof**, showing how to present your work clearly and effectively.

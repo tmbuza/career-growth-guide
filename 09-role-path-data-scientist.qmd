@@ -1,0 +1,180 @@
+# Data Scientist Role Path: From Analysis to Inference
+
+:::cdi-message
+- **ID:** CDI-CAREER-L09
+- **Type:** Path
+- **Audience:** Aspiring Data Scientist → Junior Data Scientist
+- **Theme:** Data Scientist Role Path
+:::
+
+This role sits between analysis and systems.
+
+A data scientist does not only describe data.
+
+They also:
+
+- build models  
+- evaluate relationships  
+- interpret results carefully  
+- support decisions with evidence  
+
+---
+
+## What This Path Represents
+
+This is a structured path from:
+
+- analysis → inference → modeling → interpretation → decision support
+
+Focused on the **Data Scientist role**.
+
+---
+
+## The Full Path
+
+```{mermaid}
+flowchart LR
+  A[Understand Data] --> B[Explore and Analyze]
+  B --> C[Build Models]
+  C --> D[Evaluate Results]
+  D --> E[Interpret Findings]
+  E --> F[Support Decisions]
+```
+
+---
+
+## Stage 1: Understand Data
+
+Start with:
+
+- data structure  
+- variable types  
+- context of the problem  
+
+Understanding context is critical.
+
+---
+
+## Stage 2: Explore and Analyze
+
+Perform:
+
+- exploratory data analysis  
+- summary statistics  
+- visualization  
+
+The goal is to understand patterns before modeling.
+
+---
+
+## Stage 3: Build Models
+
+Introduce models such as:
+
+- regression  
+- classification  
+- simple predictive models  
+
+Focus on:
+
+- correct setup  
+- appropriate model choice  
+- reproducible workflow  
+
+---
+
+## Stage 4: Evaluate Results
+
+Evaluate using:
+
+- appropriate metrics  
+- validation methods  
+- comparison across models  
+
+Avoid relying on a single metric.
+
+---
+
+## Stage 5: Interpret Findings
+
+This is the core of the role.
+
+You must answer:
+
+- what does the model tell us?  
+- what does it not tell us?  
+- what are the limitations?  
+
+This is where CDI interpretation discipline matters.
+
+---
+
+## Stage 6: Support Decisions
+
+Translate results into:
+
+- recommendations  
+- insights  
+- decision support  
+
+The goal is not just modeling.
+
+It is impact.
+
+---
+
+## What Makes This Path Different
+
+Compared to the Data Analyst role, this path:
+
+- includes modeling  
+- includes inference  
+- goes beyond descriptive summaries  
+
+Compared to the ML Systems role, this path:
+
+- focuses more on interpretation than deployment  
+- emphasizes reasoning before production systems  
+
+---
+
+## Readiness Within This Path
+
+You are approaching readiness when:
+
+- you can perform exploratory analysis independently  
+- you can build simple models  
+- you can evaluate results properly  
+- you can interpret outputs carefully  
+- you can explain findings clearly  
+
+---
+
+## Common Pitfalls
+
+- jumping into models too early  
+- over-relying on metrics  
+- confusing correlation with causation  
+- ignoring assumptions  
+- over-interpreting results  
+
+---
+
+## CDI Perspective
+
+At Complex Data Insights, data science is not just modeling.
+
+It is interpretation with discipline.
+
+From outputs to defensible claims.
+
+---
+
+## What Comes Next
+
+This role connects naturally to both:
+
+- ML systems, for deployment and operation  
+- domain-specific paths, such as bioinformatics  
+
+The same career system applies across all.
