@@ -1103,7 +1103,7 @@
     "href": "09-role-path-data-scientist.html#the-full-path",
     "title": "Data Scientist Role Path: From Analysis to Inference",
     "section": "The Full Path",
-    "text": "The Full Path\n\n\n\n\n\nflowchart LR\n  A[Understand Data] --&gt; B[Explore and Analyze]\n  B --&gt; C[Build Models]\n  C --&gt; D[Evaluate Results]\n  D --&gt; E[Interpret Findings]\n  E --&gt; F[Support Decisions]",
+    "text": "The Full Path\n\n\n\nData Scientist Role Path",
     "crumbs": [
       "Role-Based Paths",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Scientist Role Path: From Analysis to Inference</span>"

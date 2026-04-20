@@ -32,14 +32,7 @@ Focused on the **Data Scientist role**.
 
 ## The Full Path
 
-```{mermaid}
-flowchart LR
-  A[Understand Data] --> B[Explore and Analyze]
-  B --> C[Build Models]
-  C --> D[Evaluate Results]
-  D --> E[Interpret Findings]
-  E --> F[Support Decisions]
-```
+![Data Scientist Role Path](assets/images/role-path-data-scientist.png)
 
 ---
 
